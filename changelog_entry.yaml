@@ -1,0 +1,5 @@
+  date: 2023-04-13 00:00:00
+- bump: patch
+  changes:
+    added:
+    - Legal References for Nebraska Social Security subtraction.
